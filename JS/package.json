@@ -5,7 +5,7 @@
   "main": "",
   "scripts": {
     "test": "mocha",
-    "start": "node index.js"
+    "start": "node Index.js"
   },
   "author": {
     "name": "Sniazhana Matskevich"
